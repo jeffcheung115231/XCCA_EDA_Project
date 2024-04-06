@@ -52,6 +52,6 @@ https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs
 Our project will be evaluated based on the quality of data analysis conducted on the Data Analyst Jobs dataset and the clarity and effectiveness of our presentation. We have strived to ensure that our analysis is thorough and well-documented, while our presentation is clear, concise, and impactful.
 
 ## Additional Materials
-- PowerPoint Presentation: [Insert File Name]
-- Code and Notebooks: [Insert File Names]
-- Other Materials: [Insert any additional materials or resources used in the project]
+- PowerPoint Presentation: [EDA_Mini_Project.pdf]
+- Code and Notebooks: [EDA_Mini_Project.ipynb]
+- Other Materials: [DataAnalyst.csv]
